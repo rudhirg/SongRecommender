@@ -1,0 +1,67 @@
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.226870
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.226870
+alpha: 0.500000, precision: 0.226870
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.004422
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.500000, precision: 0.000000
+alpha: 0.400000, precision: 0.000000
+alpha: 0.200000, precision: 0.000000
+alpha: 0.500000, precision: 0.004422
+alpha: 0.400000, precision: 0.004479
+alpha: 0.200000, precision: 0.004593
+alpha: 0.500000, gamma,: 1, precision: 0.000000
+alpha: 0.500000, gamma,: 1, precision: 0.044184
+alpha: 0.500000, precision: 0.004422
+alpha: 0.500000, gamma,: 1, precision: 0.000000
+alpha: 0.500000, gamma,: 1, precision: 0.000000
+alpha: 0.500000, gamma,: 1, precision: 0.000000
+alpha: 0.200000, gamma,: 1, precision: 0.061471, first
+alpha: 0.600000, gamma,: 1, precision: 0.059579, third
+alpha: 0.400000, gamma,: 1, precision: 0.060687, second
+alpha: 0.600000, gamma,: 1, precision: 0.059579, third
+alpha: 0.400000, gamma,: 3, precision: 0.089623, second
+alpha: 0.600000, gamma,: 3, precision: 0.092300, third
+alpha: 0.800000, gamma,: 1, precision: 0.058456, fourth
+alpha: 0.200000, gamma,: 2, precision: 0.078650, first
+alpha: 0.600000, gamma,: 2, precision: 0.080185, third
+alpha: 0.400000, gamma,: 2, precision: 0.080117, second
+alpha: 0.800000, gamma,: 2, precision: 0.078620, fourth
+alpha: 0.200000, gamma,: 5, precision: 0.081913, first
+alpha: 0.800000, gamma,: 5, precision: 0.097236, fourth
+alpha: 0.600000, gamma,: 5, precision: 0.096118, third
+alpha: 0.400000, gamma,: 5, precision: 0.089494, second
+alpha: 0.200000, gamma,: 6, precision: 0.080084, first
+alpha: 0.800000, gamma,: 6, precision: 0.096682, fourth
+alpha: 0.400000, gamma,: 6, precision: 0.087707, second
+alpha: 0.600000, gamma,: 6, precision: 0.094817, third
+alpha: 0.200000, gamma,: 7, precision: 0.078409, first
+alpha: 0.800000, gamma,: 7, precision: 0.095286, fourth
+alpha: 0.200000, gamma,: 8, precision: 0.076962, first
+alpha: 0.800000, gamma,: 8, precision: 0.093918, fourth
+alpha: 0.600000, gamma,: 7, precision: 0.092656, third
+alpha: 0.400000, gamma,: 7, precision: 0.085768, second
+alpha: 0.400000, gamma,: 8, precision: 0.084192, second
+alpha: 0.600000, gamma,: 8, precision: 0.091002, third
+item based:: alpha: 0.500000, gamma,: 1, precision: 0.000000
+item based:: alpha: 0.500000, gamma,: 1, precision: 0.000000
+item based:: alpha: 0.500000, gamma,: 1, precision: 0.000000
+alpha: 0.500000, gamma,: 1, precision: 0.000000
+alpha: 0.500000, gamma,: 1, precision: 0.000000
